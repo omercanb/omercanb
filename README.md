@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Can. 😁
+I'm a first year student at Bilkent University CS. 🏫
+
+I'm currently learning AI and Transformers and also looking to discover other CS fields. 
 
 <!--
 **omercanb/omercanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
