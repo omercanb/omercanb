@@ -1,9 +1,4 @@
-### Hi there 👋
-My name is Can. 😁
-I'm a first year student at Bilkent University CS. 🏫
-
-I'm currently learning AI and Transformers.
-I'm also discovering other CS fields like simulations 🌱, game development 👾 and more.
+Hi, I'm Ömer Can, currently a year 1 CS student at Bilkent and interested in ML.
 
 <!--
 **omercanb/omercanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
