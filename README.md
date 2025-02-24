@@ -1,4 +1,4 @@
-Hi, I'm Ömer Can. I'm a year one CS student at Bilkent University.
+Hi, I'm Ömer Can. I'm a year two CS student at Bilkent University.
 
 <!--
 **omercanb/omercanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
