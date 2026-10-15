@@ -1,4 +1,5 @@
-Hi, I'm Ömer Can. I'm a year three CS student at Bilkent University.
+Hi, I'm Ömer Can. I'm a senior CS student at Bilkent University with an interest in systems and programming languages. 
+Check out my project Splice which is a high performance Python to C++ compiler that uses mutable value semantics!
 
 <!--
 **omercanb/omercanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
